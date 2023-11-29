@@ -1,5 +1,6 @@
-# Random-BD
+# Random-Power
 Random Cloning
-git clone https://github.com/princeshahin/Random-BD
-cd Random
-python Rony_0.1.py
+rm -rf Random-Power
+git clone https://github.com/princeshahin/Random-Power
+cd Random-Power
+python Rony_1.py
